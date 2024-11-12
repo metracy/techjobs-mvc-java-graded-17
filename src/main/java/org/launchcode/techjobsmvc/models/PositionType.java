@@ -7,4 +7,3 @@ public class PositionType extends JobField {
     }
 
 }
-
