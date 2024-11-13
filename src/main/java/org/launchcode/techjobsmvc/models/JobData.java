@@ -67,6 +67,7 @@ public class JobData {
             jobs = findByValue(value);
             return jobs;
         }
+
         for (Job job : allJobs) {
 
             String aValue = getFieldValue(job, column);
